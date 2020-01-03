@@ -35,6 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 It is my first app writing in Swift.
 So It is a little challenge for me to figure it out.
+But I do enjoy it.
 
 ## License
 
